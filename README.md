@@ -11,15 +11,15 @@
 # Skills
 
 ### FrontEnd
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Next.js-292929?style=plastic&logo=Next.js&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Angular-DD1100?style=plastic&logo=Angular&logoColor=ffffff" height="32px"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=ffffff" height="32px"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Next.js-292929?style=plastic&logo=Next.js&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Angular-DD1100?style=plastic&logo=Angular&logoColor=ffffff" height="28px"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=ffffff" height="28px"/>
 ### Front Libarary
-<img src="https://img.shields.io/badge/SWR-292929?style=plastic&logo=SWR&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/shadcn/ui-292929?style=plastic&logo=shadcn/ui&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=plastic&logo=Zod&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Zustand-292929?style=plastic&logo=Zustand&logoColor=ffffff" height="32px"/>
+<img src="https://img.shields.io/badge/SWR-292929?style=plastic&logo=SWR&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/shadcn/ui-292929?style=plastic&logo=shadcn/ui&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=plastic&logo=Zod&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Zustand-292929?style=plastic&logo=Zustand&logoColor=ffffff" height="28px"/>
 ### BackEnd
-<img src="https://img.shields.io/badge/Next.js-292929?style=plastic&logo=Next.js&logoColor=ffffff" height="32px"/><br/><img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=plastic&logo=AmazonAWS&logoColor=ffffff" height="32px"/><img src="https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=Lambda&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=DynamoDB&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/S3-569A31?style=plastic&logo=S3&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Cognito-DD344C?style=plastic&logo=Cognito&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/API Gateway-FF4F8B?style=plastic&logo=API Gateway&logoColor=ffffff" height="32px"/>
-<img src="https://img.shields.io/badge/SQS-FF4F8B?style=plastic&logo=SQS&logoColor=ffffff" height="32px"/> 
+<img src="https://img.shields.io/badge/Next.js-292929?style=plastic&logo=Next.js&logoColor=ffffff" height="28px"/><br/><img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=plastic&logo=AmazonAWS&logoColor=ffffff" height="28px"/><img src="https://img.shields.io/badge/Lambda-FF9900?style=plastic&logo=Lambda&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=DynamoDB&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/S3-569A31?style=plastic&logo=S3&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Cognito-DD344C?style=plastic&logo=Cognito&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/API Gateway-FF4F8B?style=plastic&logo=API Gateway&logoColor=ffffff" height="28px"/>
+<img src="https://img.shields.io/badge/SQS-FF4F8B?style=plastic&logo=SQS&logoColor=ffffff" height="28px"/> 
 ### Infrastructure
-<img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=plastic&logo=AmazonAWS&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/Route 53-8C4FFF?style=plastic&logo=Route 53&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=plastic&logo=CloudFront&logoColor=ffffff" height="32px"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=plastic&logo=IAM&logoColor=ffffff" height="32px"/>
+<img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=plastic&logo=AmazonAWS&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/Route 53-8C4FFF?style=plastic&logo=Route 53&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=plastic&logo=CloudFront&logoColor=ffffff" height="28px"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=plastic&logo=IAM&logoColor=ffffff" height="28px"/>
 
 
 # Lastest Posts
@@ -29,7 +29,31 @@
 - [🌬️ Next.js 의 서버액션](https://dubaibaran.notion.site/NextJS-2eb0153ae6ec45429eada08d07581f6f?pvs=4)
 
 # Latest Personal Projects
-- 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="[https://academy.dream-coding.com/courses/react](https://dubaibaran.notion.site/Real-Time-Chat-NextJS-AWS-278c263f557449a79b1526a11c326f64?pvs=4)" title="E-commerce">
+          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/abce465e-5026-48f2-8ccd-39edbf1cd660" width="300" alt-text="React Course">
+        </a>
+      </td>
+      <td>
+        <a href="[https://academy.dream-coding.com/courses/typescript](https://dubaibaran.notion.site/E-commerce-NextJS-CMS-244be8014926485182a2bce807cc1ae1?pvs=4)" title="Real-time Chat">
+          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/2324a287-9eb3-402b-a1f3-1d303b4ac98c" width="300" alt-text="TypeScript Course">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       E-commerce
+      </td>
+      <td>
+       Real-time Chat
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **qor8917/qor8917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
