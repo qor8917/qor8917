@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 반갑습니다!
+
+저는 3년차 웹 개발자![database](https://github.com/qor8917/qor8917/assets/69076456/dd5e797c-577c-4c8b-a845-fdd0aa017806)
+
 
 <!--
 **qor8917/qor8917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
