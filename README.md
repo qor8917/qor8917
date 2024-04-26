@@ -33,13 +33,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://dubaibaran.notion.site/Real-Time-Chat-NextJS-AWS-278c263f557449a79b1526a11c326f64?pvs=4" title="E-commerce">
-          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/abce465e-5026-48f2-8ccd-39edbf1cd660" width="300" alt-text="React Course">
+        <a href="https://dubaibaran.notion.site/E-commerce-NextJS-CMS-244be8014926485182a2bce807cc1ae1?pvs=4" title="E-commerce">
+          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/2324a287-9eb3-402b-a1f3-1d303b4ac98c" width="300" alt-text="React Course">
         </a>
       </td>
       <td>
         <a href="https://dubaibaran.notion.site/Real-Time-Chat-NextJS-AWS-278c263f557449a79b1526a11c326f64?pvs=4" title="Real-time Chat">
-          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/2324a287-9eb3-402b-a1f3-1d303b4ac98c" width="300" alt-text="TypeScript Course">
+          <img align="center" src="https://github.com/qor8917/qor8917/assets/69076456/abce465e-5026-48f2-8ccd-39edbf1cd660" width="300" alt-text="TypeScript Course">
         </a>
       </td>
     </tr>
