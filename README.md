@@ -1,6 +1,7 @@
-### 안녕하세요! 반갑습니다!
+### 안녕하세요! 반갑습니다! ![men]()
+<img src="https://github.com/qor8917/qor8917/assets/69076456/5a517e72-862a-43d8-bad4-c5a18dba0b68" width="48" height="48" />
+저는 3년차 웹 개발자 
 
-저는 3년차 웹 개발자![database](https://github.com/qor8917/qor8917/assets/69076456/dd5e797c-577c-4c8b-a845-fdd0aa017806)
 
 
 <!--
