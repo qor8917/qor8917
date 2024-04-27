@@ -1,7 +1,7 @@
 f# 안녕하세요! 반갑습니다! ✋🏻
 
 ### 저는 3년차 웹 개발자 👨🏻‍💻 성백규 🇰🇷 입니다. 현재 🇦🇪 아랍에미리트 두바이에서 거주하고 있습니다.
-### 복잡하게 생각할 필요없이 내가 해야 할 일들을 목표에 따라 매일 클리어하게 진행하는것을 추구하고 좋아합니다.
+### 복잡하게 생각하지 않고 내가 해야 할 일들을 목표에 따라 매일 클리어하게 진행하는것을 노력하고 좋아합니다.
 
 - ✅  지난 2년간 클라우드 웹 베이스 솔루션 회사에서 개발자로 근무 하였습니다.
 - 💪  Client 개발은 <img src="https://img.shields.io/badge/Next.js-292929?style=flat&logo=Next.js&logoColor=ffffff"/> 를 사용하고, Server 개발은 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=AmazonAWS&logoColor=ffffff"/> 를 사용하여 구축하는데 강점이 있습니다.
