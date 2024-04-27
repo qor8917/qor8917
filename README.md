@@ -6,7 +6,7 @@
 ```
 - ✅  지난 2년간 클라우드 웹 베이스 솔루션 회사에서 개발자로 근무 하였습니다.
 - 💪  Client 개발은 <img src="https://img.shields.io/badge/Next.js-292929?style=flat&logo=Next.js&logoColor=ffffff"/> 를 사용하고, Server 개발은 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=AmazonAWS&logoColor=ffffff"/> 를 사용하여 구축하는데 강점이 있습니다.
-- ✍️  <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리하는것을 좋아 합니다.
+- ✍️  <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 새로운 인사이트를 얻는것을 좋아합니다..
 - 📚  5월 23일 AWS SAA ( Solutions Architect Assosiate ) <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> <a href="https://dubaibaran.notion.site/dd78f39ee50c4190959970229acd5013?v=e7125ad17b9b40719394b43209fa915b&pvs=4">자격 시험</a>을 목표로 공부하고 있습니다.
 - 📸  현재 AWS S3를 저장소로 <a href="https://github.com/qor8917/trueblue-tree">사진앨범 웹앱</a>을 개인 프로젝트를 개발하고 있습니다.(4월 20일 ~ 5월 20일)
 - 🔍  현재 구직 중에 있습니다. `재택근무` 가능한 회사를 찾고 있습니다.
