@@ -28,7 +28,7 @@
 - [⚰️ Next.js 의 Caching ](https://dubaibaran.notion.site/NextJS-Caching-e46a0e52338e4292b0792917f581e866?pvs=4)
 - [🌬️ Next.js 의 서버액션](https://dubaibaran.notion.site/NextJS-2eb0153ae6ec45429eada08d07581f6f?pvs=4)
 
-# Latest Personal Projects
+# Lastest Personal Projects
 <table>
   <tbody>
     <tr>
