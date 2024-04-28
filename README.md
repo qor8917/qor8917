@@ -29,6 +29,7 @@
 
 # Lastest Posts
 
+- [📚 (1/12) 디자인패턴 12가지 of AWS 클라우드 네이티브 아키텍트](https://dubaibaran.notion.site/1-12-12-of-AWS-06f9f0bbabcf4ba1985edafa1453b8de?pvs=4)
 - [📸 Next/image 의 이미지 최적화 총정리!](https://dubaibaran.notion.site/Next-image-85c4ff9a54d64e74852354523d22b4aa?pvs=4)
 - [⚰️ Next.js 의 Caching ](https://dubaibaran.notion.site/NextJS-Caching-e46a0e52338e4292b0792917f581e866?pvs=4)
 - [🌬️ Next.js 의 서버액션](https://dubaibaran.notion.site/NextJS-2eb0153ae6ec45429eada08d07581f6f?pvs=4)
