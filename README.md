@@ -37,8 +37,9 @@
 </picture>
 
 
-
 # Lastest Posts
+- [⚰️ Next.js 의 렌더링 ](https://dubaibaran.notion.site/NextJS-923cdfcb2bea4f9891e828df35a7d414?pvs=4
+)
 - [🍪 Token vs Session vs Cookie](https://dubaibaran.notion.site/Cookie-vs-Session-vs-Token-3a3410835dd246149c9ff8321e625065?pvs=4)
 - [📚 AWS DB 어떤걸 사용해야 할까(기본편)?](https://dubaibaran.notion.site/AWS-DB-4cf3c748576e4620b193b7746bd2c8a2?pvs=4)
 - [📚 AWS 디자인패턴 12가지 of 클라우드 네이티브 아키텍트](https://dubaibaran.notion.site/1-12-12-of-AWS-06f9f0bbabcf4ba1985edafa1453b8de?pvs=4)
