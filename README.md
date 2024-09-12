@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqor8917&count_bg=%238FF33D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqor8917&count_bg=%#66D10F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
 </div>
 # 안녕하세요! 반갑습니다! ✋🏻
 
@@ -10,12 +10,8 @@
 - ✅  지난 2년간 클라우드 웹 베이스 솔루션 회사에서 개발자로 근무 하였습니다.
 - 💪  Client 개발은 <img src="https://img.shields.io/badge/Next.js-292929?style=flat&logo=Next.js&logoColor=ffffff"/> 를 사용하고, Server 개발은 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=AmazonAWS&logoColor=ffffff"/> 를 사용하여 구축하는데 강점이 있습니다.
 - ✍️  <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 새로운 인사이트를 얻는것을 좋아합니다.
-<!--
-- 📚  5월 23일 AWS SAA ( Solutions Architect Assosiate ) <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> <a href="https://dubaibaran.notion.site/dd78f39ee50c4190959970229acd5013?v=e7125ad17b9b40719394b43209fa915b&pvs=4">자격 시험</a>을 목표로 공부하고 있습니다.
-  📸  현재 AWS S3를 저장소로 <a href="https://github.com/qor8917/trueblue-tree">사진앨범 웹앱</a>을 개인 프로젝트를 개발하고 있습니다.(4월 20일 ~ 5월 20일) !-->
+- 📚 24년 9월 AWS SAA ( Solutions Architect Assosiate ) <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> 와 정보처리기사 자격 획득
 - 🔍  현재 구직 중에 있습니다. `재택근무` 가능한 회사를 찾고 있습니다.
-<!--
-- 🇬🇧  매주 화요일 금요일 1:1 <a href="https://dubaibaran.notion.site/2d97a48a11454e89822bb343bd3c9fac?v=499e5682cbde46ab91c0b0393c61b2c1&pvs=4">온라인 영어 레슨</a>을 통해 회화능력을 키우고 있습니다. !-->
 
 
 # Skills
@@ -77,6 +73,11 @@
     </tr>
   </tbody>
 </table>
+
+# Certificates
+
+- AWS SAA ( Solutions Architect Assosiate )
+- 정보처리기사
 
 <!--
 **qor8917/qor8917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
