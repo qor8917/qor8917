@@ -4,14 +4,14 @@
 # 안녕하세요! 반갑습니다! ✋🏻
 
 ```
-저는 3년차 웹 개발자 👨🏻‍💻 성백규 🇰🇷 입니다. 현재 🇦🇪 아랍에미리트 두바이에서 거주하고 있습니다.
+저는 3년차 웹 개발자 👨🏻‍💻 성백규 🇰🇷 입니다.
 복잡하게 생각하지 않고 내가 해야 할 일들을 목표에 따라 매일 클리어하게 진행하는것을 노력하고 좋아합니다.
 ```
 - ✅  지난 2년간 클라우드 웹 베이스 솔루션 회사에서 개발자로 근무 하였습니다.
 - 💪  Client 개발은 <img src="https://img.shields.io/badge/Next.js-292929?style=flat&logo=Next.js&logoColor=ffffff"/> 를 사용하고, Server 개발은 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=AmazonAWS&logoColor=ffffff"/> 를 사용하여 구축하는데 강점이 있습니다.
 - ✍️  <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 새로운 인사이트를 얻는것을 좋아합니다.
 - 📚 24년 9월 AWS SAA ( Solutions Architect Assosiate ) <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> 와 정보처리기사 자격 획득
-- 🔍  현재 구직 중에 있습니다. `재택근무` 가능한 회사를 찾고 있습니다.
+- 🔍  현재 구직 중에 있습니다.
 
 
 # Skills
