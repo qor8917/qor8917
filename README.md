@@ -3,22 +3,28 @@
 </div>
 
 # 안녕하세요! 반갑습니다! 
-✅ `작은 성공들`이 즐거운 3년차 웹 개발자 👨🏻‍💻 `성백규`입니다.
+`작은 성공들`🎉이 즐거운 3년차 웹 개발자`성백규`입니다. 👨🏻‍💻
 <br/>
-<br/>저는 항상 기술이 현실 세계의 문제를 어떻게 해결할 수 있는지에 대해 깊은 관심을 가져왔습니다. 
+<br/>저는 항상 기술이 현실 세계의 문제를 어떻게 해결할 수 있는지에 대해 깊은 관심을 가져왔습니다.🧐 
 <br/>
-<br/>지난 2년간 “디지털트윈”이라는 물리적 사물과 시스템을 웹상에 표현하는 디지털 트랜스포메이션에 힘써 왔습니다.
+<br/>지난 2년간 `디지털트윈`이라는 물리적 사물과 시스템을 웹상에 표현하는 디지털 트랜스포메이션에 힘써 왔습니다.
 <br/>
-<br/>특히 “CJ대한통운 풀필먼트 센터 디지털트윈” 프로젝트를 통해 물류센터에서 일어날 수 있는 안전관리 개선, 효과적인 물류센터의 배치와 구조를 위한 인사이트를 제공하였습니다.
+<br/>특히 <a href="https://dubaibaran.notion.site/CJ-555447546e364dff8a181ff6f182e007" title="CJ">CJ대한통운 풀필먼트 센터 디지털트윈 🚚</a> 프로젝트를 통해
+<br/>
+<br/>물류센터에서 일어날 수 있는 안전관리 개선, 효과적인 물류센터의 배치와 구조를 위한 인사이트를 제공 하였습니다.
 <br/>
 <br/>이떄부터 이커머스와 물류 도메인에 대한 흥미가 생겨 관련 지식과 개발 지식을 공부하고 있습니다.
 <br/>
-<br/>저는 <a href="https://dubaibaran.notion.site/E-commerce-NextJS-CMS-244be8014926485182a2bce807cc1ae1?pvs=4" title="E-commerce">NextJS 개인 프로젝트</a> 를 통해 SSG로서 이커머스의 수많은 페이지 요청 최적화, 정적요소들(이미지)의 용량 최적화, 캐시 hit를 위한 수많은 비동기 데이터 요청 최적화를 진행했습니다.
+<br/>저는 <a href="https://dubaibaran.notion.site/E-commerce-NextJS-CMS-244be8014926485182a2bce807cc1ae1?pvs=4" title="E-commerce">NextJS 개인 프로젝트 ☕️</a> 를 통해 이커머스의 수많은 페이지 요청 최적화, 정적요소들(이미지)의 용량 최적화, 캐시 hit를 위한 수많은 비동기 데이터 요청 최적화를 진행했습니다.
 <br/>
-<br/>현재는 Spring,Redis,Kafka,NO-SQL DB 로 EDA(Event Driven Architecture) 시스템 설계를 위한 개인 프로젝트 중에 있습니다.
+<br/>현재는`Spring` `Redis` `Kafka` `NO-SQL DB`로 대용량 트래픽 🧨 을 견디는 EDA(Event Driven Architecture) 시스템 설계를 위한 개인프로젝트를 진행 하고 있습니다.
 
 ---
-- ✍️  <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 꾸준한 성장을 목표로 합니다.
+
+
+
+- 💪 2년간 4개의 프로젝트를 진행하였고 2개의 프로젝트에서는 PM 역할을 수행하였습니다.
+- ✍️ <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 꾸준한 성장을 목표로 합니다.
 - 📚 **AWS SAA** <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> 와 **정보처리기사** 자격 획득 (2024.09)
 
 # Skills
