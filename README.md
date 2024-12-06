@@ -26,6 +26,7 @@
 - 💪 2년간 4개의 프로젝트를 진행하였고 2개의 프로젝트에서는 PM 역할을 수행하였습니다.
 - ✍️ <a href="https://dubaibaran.notion.site/a2ec368f93dd46289c6e66f4fabf6261?pvs=4">개인 기술 블로그</a>를 통해 문제 해결 했던 경험과 개념들을 정리함으로써 꾸준한 성장을 목표로 합니다.
 - 📚 **AWS SAA** <img src="https://github.com/qor8917/qor8917/assets/69076456/6c0b7226-d521-4347-badb-394aec4ebe88" width="24" height="24" /> 와 **정보처리기사** 자격 획득 (2024.09)
+<br/>
 
 # Skills
 
